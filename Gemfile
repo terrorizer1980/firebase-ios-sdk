@@ -4,4 +4,4 @@ source 'https://rubygems.org'
 
 gem 'cocoapods', "1.9.3"
 gem 'cocoapods-generate', '2.0.0'
-gem 'danger', '6.1.0'
+gem 'danger', '9.5.2'
